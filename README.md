@@ -9,6 +9,7 @@ This project contains all relevant files for the third for the Udacity
 Nanodegree "Programming for Data Science".
 
 ### Files used
+The following files from the Udacity Classroom were used:
 --bikeshare_2.py
 --washington.csv
 --new_york_city.csv
