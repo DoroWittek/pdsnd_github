@@ -16,4 +16,8 @@ The following files from the Udacity Classroom were used:
 --chicogo.csv.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The following sites were used as references:
+https://github.com/finish06/PDSND-Project-3
+https://github.com/aMcCode/pdsnd_github
+Moreover, content from the Udacity online classroom was used.
+Thanks to Udacity for providing the content. 
