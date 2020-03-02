@@ -2,10 +2,11 @@
 This project and README file were created on the 2nd of March 2020.
 
 ### Project Title
-Replace the Project Title
+Udacity Nanodegree Programming for Data Science Project 3: Version Control
 
 ### Description
-Describe what your project is about and what it does
+This project contains all relevant files for the third for the Udacity
+Nanodegree "Programming for Data Science".
 
 ### Files used
 Include the files used
