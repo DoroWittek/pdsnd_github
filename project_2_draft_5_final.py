@@ -1,3 +1,5 @@
+# Final python code for project 3
+
 import time
 import pandas as pd
 import numpy as np
@@ -291,7 +293,7 @@ def user_stats(df):
 
 # start of added code
 # display raw data
-# cretaed with the help of github: https://github.com/finish06/PDSND-Project-3 
+# cretaed with the help of github: https://github.com/finish06/PDSND-Project-3
 
 def raw_data(df):
 
