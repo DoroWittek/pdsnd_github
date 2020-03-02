@@ -1,4 +1,5 @@
-# Final python code for project 3
+# Final python code for project 3 of the Udacity Nanodegree
+# Programming for Data Science
 
 import time
 import pandas as pd
